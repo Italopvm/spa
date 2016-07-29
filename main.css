@@ -42,7 +42,12 @@ body{
 	list-style: none;
 }
 
-
+.apply {
+	background-image: url("http://www.maadesigns.co.uk/portfolio/download/pimages/Pet-World.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 10%;
+}
 
 
 
